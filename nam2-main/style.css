@@ -1,0 +1,14 @@
+thead {
+  color: blue;
+  font-size: large;
+}
+tfoot {
+  color: brown;
+  font-style: italic;
+}
+.menu{
+  background-color: aqua;
+  display: flex;
+  margin: 0px;
+  padding: 50px;
+}
